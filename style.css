@@ -1,0 +1,15 @@
+#page {
+    background-color: gray;
+}
+
+
+#title {
+    font-family:'Courier New', Courier, monospace;
+    background-color: black;
+    color: white; 
+    height: fit-content;
+    width: 1050px;
+    text-align: center;
+
+}
+
